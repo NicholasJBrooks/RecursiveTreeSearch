@@ -1,0 +1,13 @@
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\bin\Debug\netcoreapp3.1\RecursionPetName.exe
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\bin\Debug\netcoreapp3.1\RecursionPetName.deps.json
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\bin\Debug\netcoreapp3.1\RecursionPetName.runtimeconfig.json
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\bin\Debug\netcoreapp3.1\RecursionPetName.runtimeconfig.dev.json
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\bin\Debug\netcoreapp3.1\RecursionPetName.dll
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\bin\Debug\netcoreapp3.1\RecursionPetName.pdb
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.csprojAssemblyReference.cache
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.AssemblyInfoInputs.cache
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.AssemblyInfo.cs
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.csproj.CoreCompileInputs.cache
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.dll
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.pdb
+C:\Users\nicki\source\repos\RecursionPetName\RecursionPetName\obj\Debug\netcoreapp3.1\RecursionPetName.genruntimeconfig.cache
